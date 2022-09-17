@@ -1,0 +1,26 @@
+body{
+  background-color: #EAF6F6;
+}
+h1
+{
+  color: #D2001A;
+}
+h3
+{
+  color: #FD841F;
+}
+strong{
+  color: red;
+}
+a href{
+  color: red;
+}
+
+
+hr {
+  border-style: dotted none none;
+  width : 15%;
+  border-color: grey;
+  height : 10px;
+  border-width:5px;
+}
